@@ -16,6 +16,6 @@ class number
 };
 int main()
 {
-	number n(20,3);
+	number n(29,5);
 	cout<<"remainder= "<<n.remainder();
 }
